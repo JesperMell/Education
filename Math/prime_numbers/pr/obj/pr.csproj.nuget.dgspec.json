@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/app/pr/pr.csproj": {}
+  },
+  "projects": {
+    "/app/pr/pr.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/app/pr/pr.csproj",
+        "projectName": "pr",
+        "projectPath": "/app/pr/pr.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/app/pr/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/root/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

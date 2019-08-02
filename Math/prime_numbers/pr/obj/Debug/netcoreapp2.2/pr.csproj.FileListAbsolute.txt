@@ -1,0 +1,11 @@
+/app/pr/bin/Debug/netcoreapp2.2/pr.deps.json
+/app/pr/bin/Debug/netcoreapp2.2/pr.runtimeconfig.json
+/app/pr/bin/Debug/netcoreapp2.2/pr.runtimeconfig.dev.json
+/app/pr/bin/Debug/netcoreapp2.2/pr.dll
+/app/pr/bin/Debug/netcoreapp2.2/pr.pdb
+/app/pr/obj/Debug/netcoreapp2.2/pr.csprojAssemblyReference.cache
+/app/pr/obj/Debug/netcoreapp2.2/pr.csproj.CoreCompileInputs.cache
+/app/pr/obj/Debug/netcoreapp2.2/pr.AssemblyInfoInputs.cache
+/app/pr/obj/Debug/netcoreapp2.2/pr.AssemblyInfo.cs
+/app/pr/obj/Debug/netcoreapp2.2/pr.dll
+/app/pr/obj/Debug/netcoreapp2.2/pr.pdb
